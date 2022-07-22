@@ -1,0 +1,19 @@
+table, th, td {
+    border: 0.5px solid black;
+    margin: 1.5rem;
+}
+table {
+    border-left: 8px solid gray;
+    border-bottom: 8px solid rgb(65, 64, 64);
+    border-right: 8px solid rgb(65, 64, 64);
+    border-top: 8px solid gray;
+}
+#c1 {
+    font-size: 30px;
+    text-align: left;
+    margin:0.5rem;
+    font-style:italic;
+}
+.td1 > td{
+    padding: 15px;
+}
